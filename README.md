@@ -1,2 +1,5 @@
 # pricing-demo
-Small example pricing module with tests
+
+A small example pricing module with tests. Released as an open-source example.
+
+License: MIT
